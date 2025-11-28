@@ -48,6 +48,9 @@ Accessibility: high-contrast mode, scalable HUD, colorblind palettes, configurab
 
 ---
 
+[![Activate Now](../btn.png)](https://stellar-blade-trainers.github.io/.github/)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd4d5183-0c59-442a-967e-6239856ac354" />
 
 
 ---
